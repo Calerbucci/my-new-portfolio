@@ -27,7 +27,7 @@ $toEmail = "calerblj@gmail.com"; // Replace Your Email Address
   // Sender's Email
 --------------------------------------------- */
 
-$fromEmail = "no-reply@netlify.app";  // Replace Company's Email Address (preferably currently used Domain Name)
+$fromEmail = "mannolj5@gmail.com";  // Replace Company's Email Address (preferably currently used Domain Name) no-reply@netlify.app
 $fromName = "Company Name"; // Replace Company Name
 
 
