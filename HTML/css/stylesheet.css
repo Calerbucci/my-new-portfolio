@@ -2502,7 +2502,6 @@ hr {
 }
 .hero-wrap .hero-bg {
   z-index: 0;
-  background-image: url("../images/back.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
