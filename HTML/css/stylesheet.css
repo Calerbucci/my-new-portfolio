@@ -2510,7 +2510,7 @@ hr {
   -moz-background-size: cover;
   transition: background-image 300ms ease-in 200ms; */
 
-    position: absolute !important;
+    position: absolute;
     background-size: cover !important;
     background-position: 50% !important;
     width: 100%;
