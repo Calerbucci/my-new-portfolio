@@ -2502,13 +2502,13 @@ hr {
 }
 .hero-wrap .hero-bg {
   z-index: 0;
-  background-attachment: fixed !important;
-  background-position: center center !important;
-  background-repeat: no-repeat !important;
-  background-size: cover !important;
-  -webkit-background-size: cover !important;
-  -moz-background-size: cover !important;
-  transition: background-image 300ms ease-in 200ms !important;
+  background-attachment: fixed ;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  transition: background-image 300ms ease-in 200ms;
 }
 .hero-wrap .hero-bg.hero-bg-scroll {
   background-attachment: scroll;
